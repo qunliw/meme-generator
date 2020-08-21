@@ -5,8 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url("./meme.jpg") no-repeat 0;
-  background-size: cover;
+  background-color: #395564;
 }
 
 header {
